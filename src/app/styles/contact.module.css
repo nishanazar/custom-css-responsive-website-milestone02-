@@ -1,0 +1,77 @@
+.div1 {
+  margin-left: 70px;
+}
+
+.h4 {
+  scroll-margin: 80px;
+
+  margin-top: 70px;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+}
+
+.p {
+  font-size: 17px;
+}
+
+.div2 {
+  margin: 64px;
+}
+
+.contact {
+  background: #000;
+  color: rgb(255 255 255);
+  width: 600px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  padding-left: 15px;
+}
+
+.support {
+  font-size: 30px;
+  color: rgb(239 68 68);
+  padding-top: 4px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.email {
+  font-size: 30px;
+  color: rgb(37 99 235);
+  padding-top: 4px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.call {
+  font-size: 30px;
+  color: rgb(21 128 61);
+  padding-top: 4px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+@media (max-width: 640px) {
+  .contact {
+    width: 300px;
+  }
+  .div2 {
+    margin: 32px;
+    width: 300px;
+  }
+  .p {
+    font-size: 14px;
+  }
+  .div1 {
+    margin-left: 20px;
+  }
+}
