@@ -13,7 +13,11 @@
 }
 
 .p {
-  font-size: 17px;
+  font-size: 15px;
+  font-family: sans-serif;
+  padding-top: 20px;
+  padding-right: 30px;
+  line-height: 23px;
 }
 
 .div2 {
@@ -31,33 +35,24 @@
 }
 
 .support {
-  font-size: 30px;
-  color: rgb(239 68 68);
-  padding-top: 4px;
+  margin-top: 20px;
   display: flex;
-  flex-direction: column;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  gap: 15px;
+   padding-top: 15px;
+ 
 }
 
 .email {
-  font-size: 30px;
-  color: rgb(37 99 235);
-  padding-top: 4px;
+ gap: 15px;
+  padding-top: 15px;
   display: flex;
-  flex-direction: column;
-  padding-top: 8px;
-  padding-bottom: 8px;
+ 
 }
 
 .call {
-  font-size: 30px;
-  color: rgb(21 128 61);
-  padding-top: 4px;
+  gap: 15px;
+  padding-top: 15px;
   display: flex;
-  flex-direction: column;
-  padding-top: 8px;
-  padding-bottom: 8px;
 }
 
 @media (max-width: 640px) {

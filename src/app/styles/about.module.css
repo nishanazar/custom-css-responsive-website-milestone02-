@@ -1,5 +1,6 @@
 .div1 {
     text-align: center;
+    margin-bottom: 30px;
 }
 .h2 {
     scroll-margin: 80px;
@@ -13,12 +14,13 @@
 }
 
 .div2 {
-    margin-left: 30px;
-    margin-right: 30px;
+  
     text-align: justify;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 15px;
+   
 }
+
 
 
 
@@ -27,7 +29,8 @@
         font-size: 16px;
         margin-left: 20px;
         margin-right: 20px;
-        margin-bottom: 30px;
+        
+        
     }
 }
 
@@ -36,3 +39,4 @@
         font-size: 18px;
     }
 }
+

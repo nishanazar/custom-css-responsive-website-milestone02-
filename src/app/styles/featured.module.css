@@ -9,6 +9,7 @@
     font-size: 60px ;
     line-height: 1;
     font-weight: 700;
+    padding-bottom: 20px;
 }
 
 .span {
@@ -45,7 +46,7 @@
 
 .div{
     padding-left: 50px;
-  
+  margin-bottom: 50px;
    
 }
 
@@ -65,6 +66,7 @@
     .p2 {
         font-size: 14px;
     }
+  
    
 }
 

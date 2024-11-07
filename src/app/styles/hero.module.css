@@ -2,6 +2,7 @@
   position: relative;
   min-height: 100vh;
   padding-left: 30px;
+  
 }
 
 .img {
@@ -30,6 +31,7 @@
 .p {
   text-transform: uppercase;
   font-weight: 500;
+  padding-bottom: 40px;
 }
 
 .h2 {
@@ -45,6 +47,8 @@
 
 .p2 {
   color: rgb(55 65 81);
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .btn {
@@ -68,5 +72,8 @@
   }
   .h2 {
     font-size: 40px;
+  }
+  .container{
+    margin-bottom: 0px;
   }
 }
